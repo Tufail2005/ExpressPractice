@@ -1,2 +1,2 @@
-Basic project related to Express 
+Basic project related to Express js
 #ExpressPractice 
